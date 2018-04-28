@@ -1,0 +1,41 @@
+{
+    "data": {
+        "goods_id": 10,
+        "appid":8012 ,
+        "service_id": 50043,
+        "goods_name": "PaiBand",
+        "icon": "http:\/\/weidu.file.dev.putaocloud.com\/file\/f2dd1e865c633a162c4a7c7a49f1d8e819e33930.jpg",
+        "is_active": 0,
+        "is_bluetooth":1,
+        "operation_type":2,
+        "banner":[
+            {
+                "media_type":"h5",
+                "cover":"",
+                "url":"http:\/\/test.fe.ptdev.cn\/ptwd\/pages\/paiband_summary.html",
+                "location_type":null,
+                "location_action":null
+            }
+        ],
+        "menu":[
+            { "name":"Activity data", "location_type":"h5", "location_action":"http:\/\/test.fe.ptdev.cn\/paiband\/#!\/sport", "icon":"http:\/\/weidu.file.dev.putaocloud.com\/file\/3a9f12bde60baf84bb724efce87ef2977ca3406f.png" },
+            { "name":"Activity data statistics", "location_type":"h5", "location_action":"http:\/\/test.fe.ptdev.cn\/paiband\/#!\/sportChart", "icon":"http:\/\/weidu.file.dev.putaocloud.com\/file\/3a9f12bde60baf84bb724efce87ef2977ca3406f.png" },
+            { "name":"Sleep data", "location_type":"h5", "location_action":"http:\/\/test.fe.ptdev.cn\/paiband\/#!\/sleep", "icon":"http:\/\/weidu.file.dev.putaocloud.com\/file\/f0b8a7e2f4e22e20966f2602b55a0fcb7c2757ec.png" },
+            { "name":"Sleep data statistics", "location_type":"h5", "location_action":"http:\/\/test.fe.ptdev.cn\/paiband\/#!\/sleepChart", "icon":"http:\/\/weidu.file.dev.putaocloud.com\/file\/f0b8a7e2f4e22e20966f2602b55a0fcb7c2757ec.png" },
+            { "name":"Heart Rate", "location_type":"h5", "location_action":"http:\/\/test.fe.ptdev.cn\/paiband\/#!\/heart", "icon":"http:\/\/weidu.file.dev.putaocloud.com\/file\/937bb1a8b8857bfa79c2f874652bd5d101d66e98.png" },
+            { "name":"Growth Data", "location_type":"h5", "location_action":"http:\/\/test.fe.ptdev.cn\/paiband\/#!\/grow", "icon":"http:\/\/weidu.file.dev.putaocloud.com\/file\/f98b978318354869e2bcc1b831e3e18707cd7fa9.png" },
+            { "name":"旧版小花", "location_type":"h5", "location_action":"http:\/\/test.fe.ptdev.cn\/paiband\/#!\/oldflower", "icon":"http:\/\/weidu.file.dev.putaocloud.com\/file\/283525c8299fc00332835a7535bff8a89a0dea0d.png" },
+            { "name":"Chore", "location_type":"h5", "location_action":"http:\/\/test.fe.ptdev.cn\/paiband\/#!\/rewards", "icon":"http:\/\/weidu.file.dev.putaocloud.com\/file\/283525c8299fc00332835a7535bff8a89a0dea0d.png" },
+            { "name":"Redeem", "location_type":"h5", "location_action":"http:\/\/test.fe.ptdev.cn\/paiband\/#!\/exchange", "icon":"http:\/\/weidu.file.dev.putaocloud.com\/file\/283525c8299fc00332835a7535bff8a89a0dea0d.png" },
+            { "name":"安全距离", "location_type":"h5", "location_action":"http:\/\/test.fe.ptdev.cn\/paiband\/#!\/security", "icon":"http:\/\/weidu.file.dev.putaocloud.com\/file\/7318ca520ce41f52f7febf224e88f243da99ea3e.png" },
+            { "name":"手环设置", "location_type":"h5", "location_action":"http:\/\/test.fe.ptdev.cn\/paiband\/#!\/setting", "icon":"http:\/\/weidu.file.dev.putaocloud.com\/file\/a98db598cd951976b9543b39108fcc65fc317755.png" },
+            { "name":"手环闹钟", "location_type":"h5", "location_action":"http:\/\/test.fe.ptdev.cn\/paiband\/#!\/clock", "icon":"http:\/\/weidu.file.dev.putaocloud.com\/file\/a98db598cd951976b9543b39108fcc65fc317755.png" },
+            { "name":"测试", "location_type":"h5", "location_action":"http:\/\/test.fe.ptdev.cn\/paiband\/#!\/test", "icon":"http:\/\/weidu.file.dev.putaocloud.com\/file\/a98db598cd951976b9543b39108fcc65fc317755.png" }
+        ],
+        "app_tools":[]
+    },
+    "msg":"",
+    "http_code":200,
+    "time":1483687650,
+    "elapsed":12
+}

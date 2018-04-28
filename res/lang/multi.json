@@ -1,0 +1,736 @@
+{
+    "test_abc": {
+        "cn": "我是诶比丝",
+        "en": "I am ABC"
+    },
+    "navigator_title_clearing": {
+    	"cn": "已结算",
+        "en": "Cleared"
+    },
+    "flower_exchange_alert": {
+    	"cn": "小花数量有变化，快同步给手环",
+        "en": "There are changes in the number of Pai Points. Fast sync to PaiBand."
+    },
+    "flower_exchange_later": {
+    	"cn": "稍后再说",
+        "en": "Later"
+    },
+    "flower_exchange_sync": {
+    	"cn": "立即同步",
+        "en": "Sync now"
+    },
+    "flower_exchange_success": {
+    	"cn": "32朵小花已扣除成功啦",
+        "en": "Exchanged 32 Pai Points!"
+    },
+    "flower_exchange_wish": {
+    	"cn": "兑换心愿",
+        "en": "Redeem a wish"
+    },
+    "flower_top_num": {
+    	"cn": "869朵",
+        "en": "869 Pai Points"
+    },
+    "flower_top_ask": {
+    	"cn": "小花是什么",
+        "en": "What is a Pai Point?"
+    },
+    "flower_task_create": {
+    	"cn": "新建兑换事件",
+        "en": "Add Reward"
+    },
+    "flower_exchange_directly": {
+    	"cn": "直接兑换心愿",
+        "en": "Directly Reward"
+    },
+    "flower_task_select": {
+    	"cn": "选择事件",
+        "en": "Select"
+    },
+    "flower_task_story": {
+    	"cn": "讲故事",
+        "en": "No Chores for a day"
+    },
+    "flower_task_book": {
+    	"cn": "买书",
+        "en": "Pick a movie"
+    },
+    "flower_task_moive": {
+    	"cn": "看电影",
+        "en": "Play the computer for 30 mins"
+    },
+    "flower_task_toy": {
+    	"cn": "买玩具",
+        "en": "Stay up 30 mins after bedtime"
+    },
+   	"flower_task_part": {
+    	"cn": "去公园",
+        "en": "Choose dinner one day"
+    },
+   	"flower_task_travel": {
+    	"cn": "旅行",
+        "en": "30 mins one on one time with mommy or daddy"
+    },
+   	"flower_task_getup": {
+    	"cn": "按时起床",
+        "en": "Empty wastebaskets"
+    },
+    "flower_task_work": {
+    	"cn": "完成作业",
+        "en": "Unload dishwasher"
+    },
+   	"flower_task_goodscore": {
+    	"cn": "获得好成绩",
+        "en": "Fold laundry"
+    },
+    "flower_task_word": {
+    	"cn": "完成背单词",
+        "en": "Clean bathroom"
+    },
+    "flower_task_read": {
+    	"cn": "完成课外阅读",
+        "en": "Cook simple meal with supervision"
+    },
+    "flower_task_sport": {
+    	"cn": "完成运动任务",
+        "en": "Clean the floor"
+    },
+    "flower_task_win": {
+    	"cn": "比赛获得优胜",
+        "en": "Make bed"
+    },
+    "flower_task_sleep": {
+    	"cn": "按时睡觉",
+        "en": "Water flowers"
+    },
+    "flower_task_reward": {
+    	"cn": "奖励",
+        "en": "Reward"
+    },
+    "flower_task_Remove": {
+    	"cn": "删除",
+        "en": "Remove"
+    },
+    "flower_task_Save": {
+    	"cn": "保存",
+        "en": "Save"
+    },
+    "btn_name_more": {
+    	"cn": "查看更多",
+        "en": "View more"
+    },
+    "exchange_status_cleared": {
+    	"cn": "已兑换",
+        "en": "Redeemed"
+    },
+    "wish_btn_exchange": {
+    	"cn": "兑换",
+        "en": "Redeem"
+    },
+    "flower_top_inputnum": {
+    	"cn": "填写数量",
+        "en": "Fill in the amount"
+    },
+    "flower_unit_flower": {
+    	"cn": "朵",
+        "en": "Pai Points"
+    },
+    "wish_spend_flower": {
+    	"cn": "消耗小花，实现一个心愿",
+        "en": "Spend Pai Points to get a wish"
+    },
+    "flower_reward_flower": {
+    	"cn": "奖励小花",
+        "en": "Reward with a Pai Point"
+    },
+    "flower_btn_newtask": {
+    	"cn": "新建奖励事件",
+        "en": "Add New"
+    },
+    "flower_btn_directlyReward": {
+    	"cn": "直接奖励小花",
+        "en": "Directly Reward"
+    },
+    "flower_date_today": {
+    	"cn": "今天",
+        "en": "Today"
+    },
+    "flower_num_canGet": {
+    	"cn": "还可以获得：",
+        "en": "You can still get:"
+    },
+    "flower_status_incomplete": {
+    	"cn": "未完成",
+        "en": "Incomplete"
+    },
+    "flower_status_complete": {
+    	"cn": "完成",
+        "en": "Complete"
+    },
+    "flower_status_cleared": {
+    	"cn": "已结算",
+        "en": "Cleared"
+    },
+    "flower_status_completed": {
+    	"cn": "已完成",
+        "en": "Completed"
+    },
+    "flower_status_expired": {
+    	"cn": "已过期",
+        "en": "Expired"
+    },
+    "flower_record_keep": {
+    	"cn": "只保留7天记录",
+        "en": "Only keeps record of the past 7 days"
+    },
+    "flower_input_textarea": {
+    	"cn": "约定达成，奖励小花",
+        "en": "Agreement reached. Reward Pai Points."
+    },
+    "flower_sync_result": {
+    	"cn": "xx朵小花已发送成功啦",
+        "en": "XX Pai Points sent!"
+    },
+    "flower_tip_nothing": {
+    	"cn": "没有奖励事件",
+        "en": "Nothing to reward"
+    },
+    "navigator_title_growth": {
+    	"cn": "成长记录",
+        "en": "Growth record"
+    },
+    "growth_status_extremelythin": {
+    	"cn": "消瘦",
+        "en": "Extremely thin"
+    },
+    "growth_status_somewhatthin": {
+    	"cn": "偏瘦",
+        "en": "Somewhat thin"
+    },
+    "growth_status_standard": {
+    	"cn": "标准",
+        "en": "Standard"
+    },
+    "growth_btn_record": {
+    	"cn": "记录成长",
+        "en": "Record growth"
+    },
+    "growth_btn_curve": {
+    	"cn": "成长曲线",
+        "en": "Growth curve"
+    },
+    "growth_btn_viewMore": {
+    	"cn": "查看更多历史记录",
+        "en": "View more history"
+    },
+    "growth_unit_height": {
+        "cn": "cm",
+        "en": "in"
+    },
+    "growth_unit_weight": {
+        "cn": "kg",
+        "en": "lbs"
+    },
+    "navigator_title_heart": {
+    	"cn": "心率数据",
+        "en": "Heart rate data"
+    },
+    "heart_btn_test": {
+    	"cn": "测心率",
+        "en": "Heart Rate"
+    },
+    "heart_tip_lastResult": {
+    	"cn": "上次结果：",
+        "en": "Last results:"
+    },
+    "heart_unit_result": {
+    	"cn": "次/分",
+        "en": "/m"
+    },
+    "heart_tip_range": {
+    	"cn": "静息心率参考范围",
+        "en": "Resting heart rate range"
+    },
+    "heart_tip_timed": {
+    	"cn": "定时测",
+        "en": "Timed check"
+    },
+    "heart_tip_manual": {
+    	"cn": "手动测",
+        "en": "Manual check"
+    },
+    "heart_tip_timedCheckMode": {
+    	"cn": "定时测试",
+        "en": "Timed check mode"
+    },
+    "task_input_exchangeTask": {
+    	"cn": "输入兑换事件",
+        "en": "Input something to redeem"
+    },
+    "task_input_rewardTask": {
+    	"cn": "输入奖励事件",
+        "en": "Enter chore name"
+    },
+    "task_repeat_repeat": {
+    	"cn": "简单重复",
+        "en": "Repeat"
+    },
+    "task_repeat_repeatTip": {
+    	"cn": "完成后立即建一个相同的事件",
+        "en": "Something similar created immediately after completion."
+    },
+    "task_repeat_everyday": {
+    	"cn": "每天",
+        "en": "Every day"
+    },
+    "task_repeat_everyworkday": {
+    	"cn": "每个工作日",
+        "en": "Every workday"
+    },
+    "task_repeat_everyweekend": {
+    	"cn": "每周末",
+        "en": "Every weekend"
+    },
+    "task_repeat_onlyonce": {
+    	"cn": "仅一次",
+        "en": "Only once"
+    },
+    "data_status_empty": {
+    	"cn": "暂无数据",
+        "en": "No data"
+    },
+    "heart_link_clock": {
+    	"cn": "定时测设置",
+        "en": "Timed measurement settings"
+    },
+    "heartClock_tip_explain": {
+    	"cn": "你可以为孩子设置一些特殊时间点进行定时心率测试，如：起床前（07:00），入睡后（23:00），有助于了解孩子的健康状况。为避免闹钟震动导致心率测试不准确，建议定时心率和手环闹钟不要设置在同一时间。",
+        "en": "You can set specific times for your child's heart rate to be checked, such as before they get up (07:00) or after they go to sleep (23:00) to help you understand your child's health. In order to avoid inaccurate testing, it is recommended not to set alarms and the heart monitor at the same time, as the vibration from the alarm may affect results."
+    },
+    "heartClock_tip_setting": {
+    	"cn": "编辑时间",
+        "en": "Edit time"
+    },
+    "btn_name_ok": {
+    	"cn": "确定",
+        "en": "Ok"
+    },
+    "btn_name_cancel": {
+    	"cn": "取消",
+        "en": "Cancel"
+    },
+    "growth_tip_height": {
+    	"cn": "身高",
+        "en": "Height"
+    },
+    "growth_tip_weight": {
+    	"cn": "体重",
+        "en": "Weight"
+    },
+
+    //common
+    "btn_complete": {
+        "cn": "完成",
+        "en": "Complete"
+    },
+    "calendar_week": {
+        "cn": "周",
+        "en": "1W"
+    },
+    "calendar_month": {
+        "cn": "月",
+        "en": "1M"
+    },
+    "calendar_year": {
+        "cn": "年",
+        "en": "1Y"
+    },
+
+    //component
+    "component_chartbar_target": {
+        "cn": "目标",
+        "en": "Target"
+    },
+    "component_chartbar_nodata": {
+        "cn": "暂无数据",
+        "en": "No data"
+    },
+    "component_recommend_title": {
+        "cn": "专家推荐",
+        "en": "Expert recommendation"
+    },
+    "component_recommend_nodata": {
+        "cn": "暂无数据",
+        "en": "No data"
+    },
+
+    //sport
+    "sport_target_title1": {
+        "cn": "运动目标设置",
+        "en": "Activity goals setting"
+    },
+    "sport_target_title2": {
+        "cn": "根据中国孩子日常所需运动量推荐",
+        "en": "Activity goals setting"
+    },
+    "sport_target_recommend": {
+        "cn": "推荐",
+        "en": "recommend"
+    },
+    "sport_data_target": {
+        "cn": "目标",
+        "en": "Target"
+    },
+    "sport_data_sync": {
+        "cn": "上次同步",
+        "en": "Last sync"
+    },
+    "sport_chart_consume": {
+        "cn": "消耗",
+        "en": "Consuming"
+    },
+    "sport_chart_kcal": {
+        "cn": "千卡",
+        "en": "kcal"
+    },
+    "sport_chart_distance": {
+        "cn": "里程",
+        "en": "Distance"
+    },
+    "sport_chart_walk": {
+        "cn": "走路",
+        "en": "Walk"
+    },
+    "sport_chart_run": {
+        "cn": "跑步",
+        "en": "Run"
+    },
+    "sport_summary_title": {
+        "cn": "运动数据.总结",
+        "en": "Activity data summary"
+    },
+    "sport_chart_indicator": {
+        "cn": "今日运动",
+        "en": "Today's data"
+    },
+
+    //sport statistics
+    "sportstat_summary_nodata": {
+        "cn": "暂无总结",
+        "en": "No data"
+    },
+    "sportstat_data_distance": {
+        "cn": "总里程",
+        "en": "Total distance"
+    },
+    "sportstat_data_average": {
+        "cn": "每日平均",
+        "en": "Daily average"
+    },
+    "sportstat_data_unit": {
+        "cn": "步",
+        "en": "steps"
+    },
+    "sportstat_summary_nodata": {
+        "cn": "暂无总结",
+        "en": "No data"
+    },
+    "sportstat_chart_indicator": {
+        "cn": "运动统计",
+        "en": "Statistics"
+    },
+
+    //sleep
+    "sleep_data_recommend": {
+        "cn": "建议",
+        "en": "recommended"
+    },
+    "sleep_data_hours": {
+        "cn": "小时",
+        "en": "hours"
+    },
+    "sleep_unit_hours": {
+        "cn": "小时",
+        "en": "h"
+    },
+    "sleep_unit_minute": {
+        "cn": "分钟",
+        "en": "min"
+    },
+    "sleep_unit_minutes": {
+        "cn": "分钟",
+        "en": "mins"
+    },
+    "sleep_unit_times": {
+        "cn": "次",
+        "en": "times"
+    },
+    "sleep_data_quality": {
+        "cn": "睡眠质量",
+        "en": "Sleep quality"
+    },
+    "sleep_chart_remrate": {
+        "cn": "深度睡眠率",
+        "en": "Sleep rate"
+    },
+    "sleep_chart_turn": {
+        "cn": "辗转反侧",
+        "en": "Awake"
+    },
+    "sleep_chart_smallturn": {
+        "cn": "辗转反侧",
+        "en": "awake"
+    },
+    "sleep_chart_deep": {
+        "cn": "深度",
+        "en": "Sleep"
+    },
+    "sleep_chart_light": {
+        "cn": "浅度",
+        "en": "Restless"
+    },
+    "sleep_chart_smalllight": {
+        "cn": "浅度",
+        "en": "restless"
+    },
+    "sleep_summary_title": {
+        "cn": "今日数据汇总",
+        "en": "Today\'s summary"
+    },
+    "sleep_chart_indicator": {
+        "cn": "今日睡眠",
+        "en": "Today's data"
+    },
+
+    //sleep statistics
+    "sleepstat_summary_week": {
+        "cn": "周睡眠数据总结",
+        "en": "Sleep data summary for week"
+    },
+    "sleepstat_summary_month": {
+        "cn": "月睡眠数据总结",
+        "en": "Sleep data summary for month"
+    },
+    "sleepstat_summary_year": {
+        "cn": "年睡眠数据总结",
+        "en": "Sleep data summary for year"
+    },
+    "sleepstat_data_quality": {
+        "cn": "优质睡眠",
+        "en": "Hight quality sleep"
+    },
+    "sleepstat_data_average": {
+        "cn": "每日平均",
+        "en": "Daily average"
+    },
+    "sleepstat_unit_day": {
+        "cn": "天",
+        "en": "days"
+    },
+    "sleepstat_unit_hours": {
+        "cn": "小时",
+        "en": "hours"
+    },
+    "sleepstat_chart_indicator": {
+        "cn": "睡眠统计",
+        "en": "Statistics"
+    },
+
+    "flower_tip_sleep": {
+        "cn": "按时睡觉",
+        "en": "Sleep on time"
+    },
+    "flower_tip_eat": {
+        "cn": "认真吃饭",
+        "en": "Eat well"
+    },
+    "flower_tip_housework": {
+        "cn": "帮忙家务",
+        "en": "Help with housework"
+    },
+    "flower_tip_getFlower": {
+        "cn": "培养良好习惯获得小花",
+        "en": "Practice good habits and earn Pai Points."
+    },
+    "flower_tip_toy": {
+        "cn": "孩子得到心仪玩具",
+        "en": "Child get their favorite toy."
+    },
+    "flower_tip_museum": {
+        "cn": "和孩子去博物馆",
+        "en": "Go to the museum with your child."
+    },
+    "flower_tip_cake": {
+        "cn": "孩子得到美味的蛋糕",
+        "en": "Child gets a piece of cake."
+    },
+    "flower_tip_useFlower": {
+        "cn": "使用小花，完成孩子心愿",
+        "en": "Use Pai Points to fulfill your child's wishes."
+    },
+    "task_tip_errorTask": {
+        "cn": "请填写事件",
+        "en": "Please fill in the event."
+    },
+    "task_tip_errorFlower": {
+        "cn": "小花数量有误",
+        "en": "The number of Pai Points is wrong."
+    },
+    "common_tip_loading": {
+        "cn": "正在加载",
+        "en": "Loading"
+    },
+    "common_tip_nomore": {
+        "cn": "没有更多了 ",
+        "en": "No more"
+    },
+    "common_bluetooth_status1": {
+        "cn": "获取蓝牙状态失败，请确保手机蓝牙已打开并连接到手环 ",
+        "en": "Failed to get Bluetooth status. Make sure your phone Bluetooth is turned on and connected to the bracelet"
+    },
+    "common_bluetooth_status2": {
+        "cn": "未连接手环蓝牙，请开启手机蓝牙 ",
+        "en": "No connected bracelet, Bluetooth, please turn on Bluetooth"
+    },
+    "common_bluetooth_status3": {
+        "cn": "蓝牙连接中，请稍后再试 ",
+        "en": "Connecting Bluetooth. Please try again later."
+    },
+    "common_bluetooth_status4": {
+        "cn": "未找到指定设备 ",
+        "en": "The specified device was not found."
+    },
+    "common_net_disconnect": {
+        "cn": "网络出错 ",
+        "en": "Network error"
+    },
+    "heart_tip_failedGetData": {
+        "cn": "获取心率数据失败",
+        "en": "Failed to obtain heart rate data."
+    },
+    "heart_tip_testResult": {
+        "cn": "实时心率",
+        "en": "Result"
+    },
+    "heart_tip_testFailed": {
+        "cn": "实时心率未完成 ",
+        "en": "Real time heart rate not completed."
+    },
+    "heart_btn_retest": {
+        "cn": "重新测试",
+        "en": "Retesting"
+    },
+    "heart_tip_testing": {
+        "cn": "测心率中，请保持手环连接",
+        "en": "Measuring heart rate. Please keep PaiBand linked."
+    },
+    "heartclock_tip_editFailed": {
+        "cn": "修改闹钟失败",
+        "en": "Failed to change alarm clock."
+    },
+    "heartclock_tip_syncFailed": {
+        "cn": "同步闹钟失败",
+        "en": "Alarm sync failed."
+    },
+    "heartclock_tip_repeat": {
+        "cn": "闹钟不能重复添加",
+        "en": "Alarm cannot be repeated."
+    },
+    "heartclock_tip_errorGetData": {
+        "cn": "获取心率闹钟失败",
+        "en": "Failed to get heart rate alarm clock."
+    },
+    "growth_tip_errorGetData": {
+        "cn": "获取成长数据失败",
+        "en": "Failed to get growth data."
+    },
+    "flower_tip_errorGetData": {
+        "cn": "获取小花数据失败",
+        "en": "Failed to get Pai Points data."
+    },
+    "reward_tip_errorGetData": {
+        "cn": "获取奖励事件失败",
+        "en": "Failed to get rewards."
+    },
+    "reward_tip_rewardFailed": {
+        "cn": "奖励小花失败",
+        "en": "Failed to reward Pai Points."
+    },
+    "reward_tip_submitFailed": {
+        "cn": "奖励失败",
+        "en": "Failed to reward."
+    },
+    "wish_tip_errorGetData": {
+        "cn": "获取心愿数据失败",
+        "en": "Failed to obtain desired data."
+    },
+    "wish_tip_failedExchange": {
+        "cn": "兑换心愿失败",
+        "en": "Failed to redeem a wish."
+    },
+    "reward_tip_failedAdd": {
+        "cn": "添加奖励事件失败",
+        "en": "Failed to add reward."
+    },
+    "reward_tip_failedDelete": {
+        "cn": "删除奖励事件失败",
+        "en": "Failed to delete reward."
+    },
+    "reward_tip_failedModify": {
+        "cn": "修改奖励事件失败",
+        "en": "Failed to modify reward."
+    },
+    "exchange_tip_failedAdd": {
+        "cn": "添加兑换事件失败",
+        "en": "Failed to add exchange."
+    },
+    "exchange_tip_failedDelete": {
+        "cn": "删除兑换事件失败",
+        "en": "Failed to delete exchange."
+    },
+    "exchange_tip_failedModify": {
+        "cn": "修改兑换事件失败",
+        "en": "Failed to modify exchange."
+    },
+    "exchange_tip_lessFlower": {
+        "cn": "兑换消耗的心愿小花数量不能超过当前拥有的数量哦",
+        "en": "The number of Pai Points you want to exchange cannot exceed the number you currently have."
+    },
+    "event_title_name": {
+        "cn": "事件详情",
+        "en": "Details"
+    },
+    "flower_tip_maxNum": {
+        "cn": "一次不能奖励超过99朵的心愿小花哦",
+        "en": "You can't award more than 99 Pai Points at once."
+    },
+    "task_tip_repeatClock": {
+        "cn": "闹钟提醒不支持当前模式",
+        "en": "The alarm clock does not support current mode."
+    },
+    "sport_title_statistics": {
+        "cn": "运动数据统计",
+        "en": "Activity data statistics"
+    },
+    "sleep_title_statistics": {
+        "cn": "睡眠数据统计",
+        "en": "Sleep data statistics"
+    },
+    "flower_max_clock": {
+        "cn": "闹钟数量最多为8个",
+        "en": "The maximum number of alarm clock is 8."
+    },
+    "heart_test_frequent": {
+        "cn": "操作过于频繁，请稍后再试",
+        "en": "Heart rate measurement is too frequent. Please wait and try again."
+    },
+    "grwoth_chart_ft": {
+        "cn": "cm",
+        "en": "ft"
+    },
+
+    "userinfo_error": {
+        "cn": "无法获取用户信息，请检查网络。",
+        "en": "Failed to get user information, please check the network."
+    }
+}
